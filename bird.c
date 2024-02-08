@@ -28,7 +28,7 @@ int main(int argc,char *argv[])
 {
 	glutInit(&argc,argv);
 	glutInitWindowSize(500,500);
-	glutCreateWindow("The Bird Game by Ashish");
+	glutCreateWindow("The Bird Game");
 	glutSpecialFunc(keybord);
 	glutDisplayFunc(display);
 	glutMainLoop();
