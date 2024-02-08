@@ -13,7 +13,7 @@ and intuitive controls makes for a challenging yet enjoyable gameplay that has c
 millions of players worldwide.
 
 # Hardware Requirements
-• RAM: 2GB or Higher
+• RAM: 4GB or Higher
 
 • Hard Disk: 40GB or higher
 
