@@ -13,8 +13,10 @@ and intuitive controls makes for a challenging yet enjoyable gameplay that has c
 millions of players worldwide.
 
 # Hardware Requirements
-• RAM: 2GB or Higher.
+• RAM: 2GB or Higher
+
 • Hard Disk: 40GB or higher
 
 • Monitor:1024 x 768 Display Resolution.
+
 • Operating System: Windows /Linux
