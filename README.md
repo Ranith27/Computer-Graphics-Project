@@ -15,5 +15,6 @@ millions of players worldwide.
 # Hardware Requirements
 • RAM: 2GB or Higher.
 • Hard Disk: 40GB or higher
+
 • Monitor:1024 x 768 Display Resolution.
 • Operating System: Windows /Linux
