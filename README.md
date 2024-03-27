@@ -20,3 +20,8 @@ millions of players worldwide.
 • Monitor:1024 x 768 Display Resolution.
 
 • Operating System: Windows /Linux
+
+<p align=center>
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/04261509-f6c8-4219-9d4b-68463445817e" width =200 >
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/00ba4d1d-00d2-4547-96c3-9208ee69f26c" width =200 height=322>
+<img src = "https://github.com/Ranith27/Mobile-Application-Development/assets/115481333/6fa179d2-5769-409a-9e90-fa631160abad" width =200 height=322>
