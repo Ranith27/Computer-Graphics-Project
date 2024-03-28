@@ -2,7 +2,7 @@
 "FLAPPY BIRD" is a classic side-scrolling mobile game recreated using OpenGL graphics package and implemented with C programming language.
 
 ### :two: Architecture Diagram
-  <img src="" width=400>
+  <img src="https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/f5ffc609-4e5c-459a-9e29-e2a75154e11d" width=400>
 
 ### :three: Prerequisites
 HARDWARE REQUIREMENTS <br>
@@ -35,7 +35,7 @@ HARDWARE REQUIREMENTS <br>
 
 ### :five: Output
 <p align=center>
-  <img src="" width=200 height=230>
-  <img src="" width=200 height=230>
-  <img src="" width=200 height=230>
+  <img src="https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/bbd8d24c-0a17-4636-b021-e9f7e858292a" width=200 height=230>
+  <img src="https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/1e68f963-9215-4951-a7b4-bab8f8fd5dad" width=200 height=230>
+  <img src="https://github.com/Ranith27/Computer-Graphics-Project/assets/115481333/341b5d0e-5787-4cc6-9efc-a5281888dfd9" width=200 height=230>
 <p>
