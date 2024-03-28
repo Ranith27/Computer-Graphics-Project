@@ -1,22 +1,41 @@
-# Computer-Graphics-Project
-”FLAPPY BIRD” is implemented using OpenGL graphics package with
-aid of C.This project demonstrates the Flappy Bird, which was a side-scrolling mobile
-game featuring 2D retro style graphics. The objective is to direct a flying bird named
-“Faby”, who moves continuously to the right, between sets of Mario-like pipes. If the bird
-touches the pipe, they lose, Faby briefly flaps upwards each time the player presses the ’f’
-or ’F’ key on the keyboard. If the key is not pressed, Faby falls because of gravity. Each
-pair of pipes that he navigates between earns the player a single point. The game keeps
-track of the player’s score, awarding one point for each pair of pipes successfully navigated.
-The player’s goal is to achieve the highest score possible by skillfully maneuvering Faby
-through the gaps while avoiding collisions. The combination of retro-style 2D graphics
-and intuitive controls makes for a challenging yet enjoyable gameplay that has captivated
-millions of players worldwide.
+### :one: Introduction
+"FLAPPY BIRD" is a classic side-scrolling mobile game recreated using OpenGL graphics package and implemented with C programming language.
 
-# Hardware Requirements
-• RAM: 4GB or Higher
+### :two: Architecture Diagram
+  <img src="" width=400>
 
-• Hard Disk: 40GB or higher
+### :three: Prerequisites
+HARDWARE REQUIREMENTS <br>
+✔ RAM: 2GB or Higher. <br>
+✔ Hard Disk: 40GB or higher <br>
+✔ Monitor:1024 x 768 Display Resolution. <br>
+✔ Operating System: Windows /Linux. <br>
 
-• Monitor:1024 x 768 Display Resolution.
+2.3 SOFTWARE REQUIREMENTS <br>
+✔ C language <br>
+✔ UBUNTU 22.04 <br>
+✔ OpenGL <br>
 
-• Operating System: Windows /Linux
+### :four: Steps 
+1 Environment Setup: Configure the project environment for OpenGL graphics.
+
+2 Graphics Creation: Design the 2D retro-style visuals for the game.
+
+3 Game Mechanics: Define how the game operates, such as continuous rightward movement and gravity effects.
+
+4 Collision Handling: Implement collision detection between Faby and pipes.
+
+5 Scoring System: Develop a system to track and display the player's score.
+
+6 User Interaction: Enable player input to control Faby's upward flapping.
+
+7 Main Loop: Set up the core game loop for smooth gameplay.
+
+8 Testing and Debugging: Thoroughly test the game for any issues and debug as needed to optimize performance.
+
+### :five: Output
+<p align=center>
+  <img src="" width=200 height=230>
+  <img src="" width=200 height=230>
+  <img src="" width=200 height=230>
+<p>
